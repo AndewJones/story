@@ -1,1 +1,2 @@
 This is chapter 1 for testing GIT version control
+Changes 2
